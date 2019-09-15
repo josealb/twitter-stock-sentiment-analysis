@@ -1,0 +1,5 @@
+
+.DS_Store
+__pycache__/sentiment-analysis.cpython-36.pyc
+source.sh
+*.pyc
